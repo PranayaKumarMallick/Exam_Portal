@@ -1,4 +1,4 @@
-# Exam_Portal
+# Lets get Started with Exam Portal App.
 # Before Start need to execute following command on project folder
   1. npm install react-router-dom
 
